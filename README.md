@@ -1,0 +1,2 @@
+# symbols
+resolving symbolic equations
